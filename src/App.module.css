@@ -1,0 +1,33 @@
+* {
+  margin: auto;
+  padding: auto;
+}
+
+
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  background-image: url(../src/Images/bg.png);
+}
+
+.image {
+  width: 280px;
+  animation: moveAcross 5s normal ;
+}
+
+@media only screen and (max-width: 770px) {
+
+  .image {
+    width: 100%;
+  }
+}
+@keyframes moveAcross {
+  0% {
+   opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}

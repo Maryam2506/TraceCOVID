@@ -1,0 +1,30 @@
+
+.container {
+  padding: 40px;
+  color: #1c5077;
+  text-align: center;
+  animation: hover 1s normal forwards ease-in-out;
+}
+
+.container h6 {
+  color: #47485a;
+  font-weight: 550;
+  font-size: x-large;
+}
+
+.container h4 {
+  font-weight: 550;
+  font-size: xx-large;
+}
+
+.btnAboutMe { 
+  margin: 20px !important;
+}
+
+
+
+@keyframes hover {
+  50% {
+    transform: scale(1.1);
+  }
+}

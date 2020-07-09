@@ -1,0 +1,15 @@
+.formControl{
+    width: 50%; 
+ 
+}
+.formControl div{
+  padding: 7px;
+  margin: 7px;
+}
+
+
+@media only screen and (max-width: 700px) {
+    .formControl{
+      width: 100%;
+    }
+  }

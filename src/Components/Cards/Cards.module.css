@@ -1,0 +1,38 @@
+.container .card {
+  margin: 1% !important;
+  text-align: center;
+}
+
+.container .infected {
+  border-bottom: 10px solid rgba(0, 0, 255, 0.5);
+}
+
+.container .recovered {
+  border-bottom: 10px solid rgba(0, 255, 0, 0.5);
+}
+
+.container .deaths {
+  border-bottom: 10px solid rgba(255, 0, 0, 0.5);
+}
+
+.container h3 {
+  padding: 16px;
+  text-align: center;
+  font-family: fantasy;
+  color: #7373fb;
+}
+.container h6{
+text-align: center;
+    margin: 9px;
+    color: #ab2300;
+}
+
+@media only screen and (max-width: 770px) {
+  .card {
+    margin: 2% 0 !important;
+  }
+  .btnGrid {
+    align-items: center;
+    display: contents;
+  }
+}
