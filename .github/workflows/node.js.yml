@@ -44,4 +44,4 @@ jobs:
       
    # Deploy Surge  
     - name: Deploy Surge
-      run: surge ./build cov19.surge.sh --token ${{secrets.SURGE_TOKEN}}
+      run: surge ./build cov19.surge.sh --token ${{secrets.COV_SECRET}}
