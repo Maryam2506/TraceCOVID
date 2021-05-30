@@ -1,3 +1,31 @@
+## TraceCOVID
+### `(Global COVID Cases Tracker -Infected -Recovered  -Died)`
+
+<b> COVID-19: </b> It's a virus affects different people in different ways. Most infected people will develop mild to moderate illness and recover without hospitalization.
+
+Most common symptoms:
+- Fever
+- Dry cough
+- Tiredness
+
+<b> TraceCOVID: </b>
+This app shows you Infected, Recovered, and Died cases of the COVID. As well as tells you who to protect yourself these days from this bad condition of COVID. 
+
+★ Features ★
+
+✔️ All compulsory information is here. 
+✔️ You'll be able to use the app always for free.
+✔️ Stay home, Stay Safe. Read and follow the covid Guidelines with the help of this app.
+
+See the Demo: 
+
+Link: http://cov19.surge.sh/
+
+How its look like(ScreenShot): 
+
+![screenshot](https://user-images.githubusercontent.com/58718438/120099673-35ddab00-c156-11eb-8e2b-ea56b8f0d7c4.png)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
