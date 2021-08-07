@@ -11,11 +11,11 @@ Most common symptoms:
 <b> TraceCOVID: </b>
 This app shows you Infected, Recovered, and Died cases of the COVID. As well as tells you who to protect yourself these days from this bad condition of COVID. 
 
-★ Features ★
+★ What I use ★
 
-✔️ All compulsory information is here. 
-✔️ You'll be able to use the app always for free.
-✔️ Stay home, Stay Safe. Read and follow the covid Guidelines with the help of this app.
+✔️ Material UI 
+✔️ Chart.js
+✔️ Fatch data from API's
 
 See the Demo: 
 
